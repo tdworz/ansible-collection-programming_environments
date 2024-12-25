@@ -2,7 +2,7 @@
 
 namespace: "tdworz"
 name: "programming_environments"
-version: 0.0.1
+version: 0.0.2
 
 description: An Ansible collection to help with the installation and configuration of programming environments.
 
