@@ -23,5 +23,7 @@ tags:
   - ruby
   - go
   - golang
+  - node
+  - nodejs
 
 dependencies: {}
