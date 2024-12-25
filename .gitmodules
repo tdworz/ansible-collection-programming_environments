@@ -1,0 +1,6 @@
+[submodule "roles/ruby"]
+	path = roles/ruby
+	url = https://github.com/tdworz/ansible-role-ruby
+[submodule "roles/go"]
+	path = roles/go
+	url = https://github.com/tdworz/ansible-role-go
